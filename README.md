@@ -32,8 +32,8 @@
 здесь отображается моя активность в коде (обновляется автоматически):
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical&hide_border=true" alt="Статистика" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical&hide_border=true" alt="Языки" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nullppo&show_icons=true&theme=radical&hide_border=true" alt="Статистика" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullppo&layout=compact&theme=radical&hide_border=true" alt="Языки" width="300" />
 </p>
 
 ---
