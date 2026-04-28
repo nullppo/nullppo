@@ -29,7 +29,7 @@
 ---
 
 ### 📊 Моя статистика в GitHub
-здесь отображается моя активность в коде (обновляется автоматически):
+здесь отображается моя активность в коде :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nullppo&show_icons=true&theme=radical&hide_border=true" alt="Статистика" width="400" />
