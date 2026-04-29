@@ -1,24 +1,28 @@
-# Привет! Я начинающий разработчик 👋
+# nullppo:~$ neofetch
 
-### 🎓 Обо мне
-Я студент, который сейчас активно погружается в мир программирования и геймдева. Не претендую на звание сеньора, но каждый день копаюсь в коде, чтобы делать крутые штуки.
+            .__  .__                        
+ ____  __ __|  | |  | ______ ______   ____  
+/    \|  |  \  | |  | \____ \\____ \/  _ \ 
+|   |  \  |  /  |_|  |_|  |_> >  |_> >  <_> )
+|___|  /____/|____/____/   __/|   __/ \____/ 
+     \/                |__|   |__|
 
-* 🌱 Изучаю архитектуру и чистый код.
-* 🐧 Изучаю Linux.
-* 🎮 В свободное время экспериментирую с геймдевом.
+OS: Developer Terminal
+Uptime: 24 days
+Shell: zsh
+CPU: Intel i5-10400
+GPU: AMD RX 6600 XT
+Memory: 16GB
 
----
+[nullppo ~]$ 
 
-### 💻 Стек технологий
-
-**Основные языки, с которыми я работаю:**
+## Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-**Интересы и инструменты:**
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
@@ -26,18 +30,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+## Focus Areas
+- Clean Architecture & Code Quality
+- Linux Systems
+- Game Development Experiments
 
-### 📊 Моя статистика в GitHub
-здесь отображается моя активность в коде :
+<i>Turning coffee into code.</i>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nullppo&show_icons=true&theme=radical&hide_border=true" alt="Статистика" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullppo&layout=compact&theme=radical&hide_border=true" alt="Языки" width="300" />
-</p>
-
----
-
-<p align="center">
-  <i>"Учусь превращать кофе в код и ошибки в опыт."</i>
-</p>
+[image:13]
