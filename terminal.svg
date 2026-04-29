@@ -1,0 +1,47 @@
+<svg width="720" height="310" viewBox="0 0 720 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="310" rx="14" fill="#1e1e2e"/>
+
+  <!-- Title bar -->
+  <rect width="720" height="44" rx="14" fill="#181825"/>
+  <rect y="30" width="720" height="14" fill="#181825"/>
+
+  <!-- Traffic lights -->
+  <circle cx="28" cy="22" r="7" fill="#ff5f57"/>
+  <circle cx="52" cy="22" r="7" fill="#ffbd2e"/>
+  <circle cx="76" cy="22" r="7" fill="#27c93f"/>
+
+  <!-- Prompt -->
+  <text x="32" y="82" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="16" fill="#cdd6f4">nullppo@github:~$</text>
+
+  <!-- whoami command -->
+  <text x="32" y="112" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="16" fill="#a6e3a1">whoami</text>
+
+  <!-- Arrow + title -->
+  <text x="32" y="148" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="15" fill="#cdd6f4">&#x2192; Java Developer &amp; Linux Enthusiast</text>
+
+  <!-- Divider line -->
+  <line x1="32" y1="162" x2="688" y2="162" stroke="#313244" stroke-width="1"/>
+
+  <!-- OS -->
+  <text x="32" y="185" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#6c7086">OS</text>
+  <text x="140" y="185" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#585b70">:</text>
+  <text x="160" y="185" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#89b4fa">Windows / Fedora</text>
+
+  <!-- Languages -->
+  <text x="32" y="208" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#6c7086">Languages</text>
+  <text x="140" y="208" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#585b70">:</text>
+  <text x="160" y="208" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#89b4fa">Java &#x2022; Python &#x2022; C#</text>
+
+  <!-- Focus -->
+  <text x="32" y="231" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#6c7086">Focus</text>
+  <text x="140" y="231" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#585b70">:</text>
+  <text x="160" y="231" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#89b4fa">Java Developer, Game Development</text>
+
+  <!-- Engines -->
+  <text x="32" y="254" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#6c7086">Engines</text>
+  <text x="140" y="254" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#585b70">:</text>
+  <text x="160" y="254" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="14" fill="#89b4fa">Unity &#x2022; Godot</text>
+
+  <!-- Bottom note -->
+  <text x="32" y="287" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-size="12" fill="#45475a">Currently focused on clean architecture, performance and writing better code.</text>
+</svg>
