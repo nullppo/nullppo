@@ -1,40 +1,42 @@
-# nullppo:~$ neofetch
+<div align="center">
+  <img height="180" src="https://raw.githubusercontent.com/nullppo/nullppo/main/assets/terminal-header.svg" alt="terminal" />
+</div>
 
-            .__  .__                        
- ____  __ __|  | |  | ______ ______   ____  
-/    \|  |  \  | |  | \____ \\____ \/  _ \ 
-|   |  \  |  /  |_|  |_|  |_> >  |_> >  <_> )
-|___|  /____/|____/____/   __/|   __/ \____/ 
-     \/                |__|   |__|
+<h3 align="center">Game Developer & Linux Enthusiast</h3>
 
-OS: Developer Terminal
-Uptime: 24 days
-Shell: zsh
-CPU: Intel i5-10400
-GPU: AMD RX 6600 XT
-Memory: 16GB
+---
 
-[nullppo ~]$ 
+### About
 
-## Tech Stack
+Passionate about building engaging game experiences and writing maintainable, clean code.  
+Currently focused on game architecture, systems design, and deepening Linux proficiency.
+
+---
+
+### 🛠️ Stack
+
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>
 </p>
 
+**Game Engines & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
 
-## Focus Areas
-- Clean Architecture & Code Quality
-- Linux Systems
-- Game Development Experiments
+---
 
-<i>Turning coffee into code.</i>
+### Currently Working On
 
-[image:13]
+- Architectural patterns for scalable game systems
+- Performance optimization in Unity/Godot
+- Linux tooling and workflow mastery
+
+---
+
