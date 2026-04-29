@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/nullppo/nullppo/main/assets/terminal-header.svg" alt="terminal" />
+  <img height="180" src="https://github.com/nullppo/nullppo/blob/main/terminal.svg" alt="terminal" />
 </div>
 
-<h3 align="center">Game Developer & Linux Enthusiast</h3>
+<h3 align="center">Java Developer & Linux Enthusiast</h3>
 
 ---
 
